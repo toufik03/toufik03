@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toufik03
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Networkimg ccna
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
